@@ -1,6 +1,6 @@
 # HUST-ParallelProgramming-HeatEquation
 
-Group 9 members:
+Group 17 members:
 - Nguyen Nhat Minh 20225510
 - Doi Sy Thang - 20225528
 - Ngo Duy Dat - 20225480
@@ -11,8 +11,8 @@ Group 9 members:
 
 Parallel programming is a key approach for speeding up numerical algorithms. This pa-
 per focuses on parallelizing a program designed to solve the two-dimensional shallow water
-equation, which serves as an example of a conservation law. The equation is tackled using fi-
-nite difference and finite volume techniques, applying schemes such as the Lax-Friedrichs and
+equation, which serves as an example of a conservation law. The equation is tackled using finite
+difference and finite volume techniques, applying schemes such as the Lax-Friedrichs and
 Lax-Wendroff methods (we exploit 3 algorithms). The parallel implementation employs both
 MPI and CUDA. Performance evaluation is primarily conducted on shared memory systems,
 and due to the availability of a sufficient number of processors, results are also presented for
