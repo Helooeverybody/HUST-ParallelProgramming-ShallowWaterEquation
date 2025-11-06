@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "cmath": "cpp",
+        "limits": "cpp",
+        "math.h": "c"
+    }
+}
