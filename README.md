@@ -1,12 +1,5 @@
 # HUST-ParallelProgramming-HeatEquation
 
-Group 17 members:
-- Nguyen Nhat Minh 20225510
-- Doi Sy Thang - 20225528
-- Ngo Duy Dat - 20225480
-- Nguyen Hoang Son Tung - 20225536
-- Vu Tuan Truong - 20225535
-
 ## Project Description
 
 Parallel programming is a key approach for speeding up numerical algorithms. This pa-
