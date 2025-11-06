@@ -24,3 +24,4 @@ MPI and CUDA
 <img width="609" height="785" alt="image" src="https://github.com/user-attachments/assets/a191afa8-fb89-4b99-affb-15857778aba3" />
 <img width="604" height="799" alt="image" src="https://github.com/user-attachments/assets/5bebf9ce-74ea-4ffc-9da2-c89a280a4a49" />
 <img width="595" height="547" alt="image" src="https://github.com/user-attachments/assets/f5b9422f-23cf-4ec0-b52e-719dd02dd54b" />
+<img width="555" height="794" alt="image" src="https://github.com/user-attachments/assets/2f87972a-1944-4259-a76a-6c13d2811bdd" />
