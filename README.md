@@ -21,3 +21,6 @@ MPI and CUDA
 ![image](https://github.com/user-attachments/assets/45101d10-2acf-4595-a0cf-68cce0e26e23)
 
 ## 🧪 Results and Simulations
+<img width="609" height="785" alt="image" src="https://github.com/user-attachments/assets/a191afa8-fb89-4b99-affb-15857778aba3" />
+<img width="604" height="799" alt="image" src="https://github.com/user-attachments/assets/5bebf9ce-74ea-4ffc-9da2-c89a280a4a49" />
+<img width="595" height="547" alt="image" src="https://github.com/user-attachments/assets/f5b9422f-23cf-4ec0-b52e-719dd02dd54b" />
